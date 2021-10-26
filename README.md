@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **shafiqullahturkmen@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shafiqullah-turkmen-701397198/](https://www.linkedin.com/in/shafiqullah-turkmen-701397198/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shafiqullah-turkmen-701397198/](https://www.linkedin.com/in/shafiqullahturkmen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shafiqullah-turkmen-701397198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafiqullah-turkmen-701397198" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shafiqullahturkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafiqullah-turkmen-701397198" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shafiqullah_tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shafiqullah_tr" height="30" width="40" /></a>
 </p>
 
