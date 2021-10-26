@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shafiqullahturkmen@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shafiqullah-turkmen-701397198/](https://www.linkedin.com/in/shafiqullahturkmen)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shafiqullahturkmen](https://www.linkedin.com/in/shafiqullahturkmen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
