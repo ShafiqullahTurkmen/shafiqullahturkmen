@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiqullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="shafiqullahturkmen" /> </p>
 
-- 🔭 I’m currently working on [AloTech FullStack BootCamp Projects](https://github.com/ShafiqullahTurkmen/AloTech-FullStack-Bootcamp)
+- 🔭 I’m currently working on [Patika & AloTech FullStack BootCamp Projects](https://github.com/ShafiqullahTurkmen/AloTech-FullStack-Bootcamp)
 
-- 🌱 I’m currently learning **Java Spring Framework, Node.js, React**
+- 🌱 I’m currently learning **React, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShafiqullahTurkmen](https://github.com/ShafiqullahTurkmen)
 
-- 💬 Ask me about **Java, JavaScript, Spring Framework, Node.js**
+- 💬 Ask me about **Java, JavaScript, Spring Framework, Node.js, React**
 
 - 📫 How to reach me **shafiqullahturkmen@gmail.com**
 
