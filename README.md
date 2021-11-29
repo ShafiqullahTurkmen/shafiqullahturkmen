@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiqullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="shafiqullahturkmen" /> </p>
 
-- 🔭 I’m currently working on [İSMEK Frontend Web Development Patikası Projects](https://app.patika.dev/moduller/frontend-web-development-projeleri)
+- 🔭 I’m currently working on [AloTech FullStack BootCamp Projects](https://github.com/ShafiqullahTurkmen/AloTech-FullStack-Bootcamp)
 
 - 🌱 I’m currently learning **Java Spring Framework, Node.js, React**
 
