@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shafiqullah Turkmen</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack JavaScript Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiqullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="shafiqullahturkmen" /> </p>
 
-- 🔭 I’m currently working on [Patika & AloTech FullStack BootCamp Projects](https://github.com/ShafiqullahTurkmen/AloTech-FullStack-Bootcamp)
+- 🔭 I’m currently working at [AloTech](https://alotech.com.tr) as a Software Engineer.
 
-- 🌱 I’m currently learning **React, Django**
+- 🌱 I’m currently learning **Solidity, Ethereum Blockchain, Next.js, and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShafiqullahTurkmen](https://github.com/ShafiqullahTurkmen)
 
-- 💬 Ask me about **Java, JavaScript, Spring Framework, Node.js, React**
+- 💬 Ask me about **React, JavaScript, TypeScript, Node.js, MySQL, Java**
 
 - 📫 How to reach me **shafiqullahturkmen@gmail.com**
 
