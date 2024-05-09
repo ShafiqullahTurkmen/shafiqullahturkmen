@@ -5,11 +5,10 @@
 
 - 🔭 I’m currently working at [AloTech](https://alotech.com.tr) as a Software Engineer.
 
-- 🌱 I’m currently learning **Solidity, Ethereum Blockchain, Next.js, and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShafiqullahTurkmen](https://github.com/ShafiqullahTurkmen)
 
-- 💬 Ask me about **React, JavaScript, TypeScript, Node.js, MySQL, Java**
+- 💬 Ask me about **NextJS, Tailwind, React, JavaScript, TypeScript, Node.js, MySQL, Java**
 
 - 📫 How to reach me **shafiqullahturkmen@gmail.com**
 
